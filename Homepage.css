@@ -1,0 +1,25 @@
+.card{
+    width: 20rem;
+    height:17rem;
+    margin-top:10rem;
+    background-color:rgb(247, 118, 140);
+}
+.insidediv{
+    margin-left:5rem;
+}
+*{
+    padding:auto;
+    margin:auto;
+    text-align:centre;
+}
+img{
+    width:5rem;
+    height:6rem;
+    margin-left:0rem;
+    margin-top:0rem;
+}
+h4{
+    margin-left:68rem;
+    margin-top:2px;
+    color: chocolate;
+}
